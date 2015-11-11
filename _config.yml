@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Thousands of Lines
+tagline:          Android development blog
+description:      'Lets talk about Android development, architecture, java and android libs, dessign patters and the most important thing, lets talk about sharing knowledge'
+url:              http://github.com/fsergio101
+baseurl:          /
+
+author:
+  name:           'Sergio Martínez Rodríguez'
+  url:            https://twitter.com/maros87
+
+# Custom vars
+
+github:
+  repo:           https://github.com/fsergio101
